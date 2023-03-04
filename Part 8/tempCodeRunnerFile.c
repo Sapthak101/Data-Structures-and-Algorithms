@@ -1,0 +1,1 @@
+push(&s1, infix[i]);
